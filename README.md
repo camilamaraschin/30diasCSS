@@ -4,7 +4,7 @@ No desafio 30 dias de CSS eu busco treinar e melhorar todos os dias os meus conh
 
 ## Regras
 Criar um projeto novo todos os dias <br>
-Compartilhar o progresso no LinkedIn <br>
+Compartilhar o progresso no [LinkedIn](https://www.linkedin.com/in/camilamaraschin/) <br>
 Concluir o desafio até 23:59 <br>
 
 ## Projetos realizados 
