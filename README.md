@@ -37,6 +37,13 @@ Concluir o desafio até 23:59 <br>
 [Meu Código](https://github.com/camilamaraschin/30diasCSS/tree/main/04-%20Pendulo) <br>
 [Post no Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6963586096802738176/)<br>
 
+05- Coração 
+
+![20220812_082429](https://user-images.githubusercontent.com/105385268/184347925-281c8f66-42ee-4f96-8c36-00bb9b1fed48.gif)<br>
+
+[Meu Código](https://github.com/camilamaraschin/30diasCSS/tree/main/05%20-Cora%C3%A7%C3%A3o) <br>
+[Post no Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6963586096802738176/)<br>
+
 
 
 
