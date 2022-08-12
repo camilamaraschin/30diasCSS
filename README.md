@@ -35,7 +35,7 @@ Concluir o desafio até 23:59 <br>
 ![imagem](https://user-images.githubusercontent.com/105385268/184227096-13866198-5b98-4143-95c3-2068e867c5d5.gif)<br>
 
 [Meu Código](https://github.com/camilamaraschin/30diasCSS/tree/main/04-%20Pendulo) <br>
-[Post no Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6963308803165446144/)<br>
+[Post no Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6963586096802738176/)<br>
 
 
 
