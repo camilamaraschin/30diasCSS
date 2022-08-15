@@ -9,7 +9,7 @@ Concluir o desafio até 23:59 <br>
 
 ## Projetos realizados 
 
-01- Ícone de mídia social em camadas
+<b> 01- Ícone de mídia social em camadas </b>
 
 ![20220808_201548](https://user-images.githubusercontent.com/105385268/183531340-8e90c0ca-a1ef-49ed-9751-81f76b5a5a05.gif) <br>
 
@@ -47,7 +47,7 @@ Concluir o desafio até 23:59 <br>
 06- Efeito Lighting CSS animation 
 ![20220815_172137](https://user-images.githubusercontent.com/105385268/184712729-a6cc23ad-7a87-4b8f-aa70-e92df722dc71.gif)<br>
 
-[Meu Código](https://github.com/camilamaraschin/30diasCSS/tree/main/05%20-Cora%C3%A7%C3%A3o) <br>
+[Meu Código](https://github.com/camilamaraschin/30diasCSS/tree/main/06-%20Efeito%20lighting%20text) <br>
 [Post no Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6963968327593406464/)<br>
 
 
