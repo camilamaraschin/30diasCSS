@@ -8,8 +8,13 @@ Compartilhar o progresso no [LinkedIn](https://www.linkedin.com/in/camilamarasch
 Concluir o desafio até 23:59 <br>
 
 ### Sumário
-[01- Ícone de mídia social em camadas](https://user-images.githubusercontent.com/105385268/183531340-8e90c0ca-a1ef-49ed-9751-81f76b5a5a05.gif)
-
+[01- Ícone de mídia social em camadas](https://user-images.githubusercontent.com/105385268/183531340-8e90c0ca-a1ef-49ed-9751-81f76b5a5a05.gif)<br>
+[02- Botão com efeito HOVER](https://user-images.githubusercontent.com/105385268/183759059-75974ea3-281a-4c3b-b119-8347564c40f0.gif)<br>
+[03- Formulário](https://user-images.githubusercontent.com/105385268/183924014-6cce1058-4d73-4b6f-b72e-0d1e72652c2a.png)<br>
+[04- Pêndulo](https://user-images.githubusercontent.com/105385268/184227096-13866198-5b98-4143-95c3-2068e867c5d5.gif)<br>
+[05- Coração](https://user-images.githubusercontent.com/105385268/184347925-281c8f66-42ee-4f96-8c36-00bb9b1fed48.gif)<br>
+[06- Efeito Lighting CSS animation](https://user-images.githubusercontent.com/105385268/184712729-a6cc23ad-7a87-4b8f-aa70-e92df722dc71.gif)<br>
+[07 - Pré Loader](https://user-images.githubusercontent.com/105385268/184880833-3fde6003-af5b-49d2-8c90-42e25d6319fd.gif) <br>
 ## Projetos realizados 
 
 <b> 01- Ícone de mídia social em camadas </b>
