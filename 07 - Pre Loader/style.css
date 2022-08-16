@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    background:linear-gradient(90deg , #6f9e87, #766892);
+
+}
+
+h1{
+    color: #236464;
+    display: flex;
+    position: absolute;
+    justify-content: center;
+    text-align: center;
+    top:20px;
+    padding: 100px;
+}
+
+.carregamento{
+    width: 200px;
+    height: 200px;
+    position: relative;
+}
+
+span{
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    background-color:#236464;
+    border-radius: 50px;
+    animation: change 2s linear infinite;
+
+}
+
+span:nth-child(1){
+    -o-animation-delay: 1.4s;
+}
+span:nth-child(2) {
+    animation-delay: 0.7s;
+}
+
+span:nth-child(3) {
+    animation-delay: 1.4s;
+}
+
+
+@keyframes change {
+    
+    0% {top: 0; left: 0;}
+
+    12.5% { top: 0; left: 50%;}
+
+    25% { top: 0; left: 50%;}
+
+    37.5% { top: 50%; left: 50%;}
+
+    50% { top: 50%; left: 50%;}
+
+    62.5% { top: 50% ; left: 0;}
+
+    75% { top: 50% ; left: 0;}
+
+    82.5% { top: 0; left: 0;}
+
+    100% { top: 0; left: 0;}
+}
+
