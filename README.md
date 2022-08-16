@@ -7,6 +7,9 @@ Criar um projeto novo todos os dias <br>
 Compartilhar o progresso no [LinkedIn](https://www.linkedin.com/in/camilamaraschin/) <br>
 Concluir o desafio até 23:59 <br>
 
+### Sumário
+[01- Ícone de mídia social em camadas](https://user-images.githubusercontent.com/105385268/183531340-8e90c0ca-a1ef-49ed-9751-81f76b5a5a05.gif)
+
 ## Projetos realizados 
 
 <b> 01- Ícone de mídia social em camadas </b>
@@ -78,7 +81,12 @@ Concluir o desafio até 23:59 <br>
 [Meu Código](https://github.com/camilamaraschin/30diasCSS/tree/main/06-%20Efeito%20lighting%20text) <br>
 [Post no Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6965048251569852416/)<br>
 
+<b>07 - Pré Loader</b><br>
+![20220816_092925](https://user-images.githubusercontent.com/105385268/184880833-3fde6003-af5b-49d2-8c90-42e25d6319fd.gif) <br>
 
-
+<b> Aprendizados: </b><br>
+1- Apenas uma revisão de tudo que já foi visto até agora <br>
+[Meu código](https://github.com/camilamaraschin/30diasCSS/tree/main/07%20-%20Pre%20Loader) <br>
+[Post no Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6965048251569852416/)<br>
 
 
