@@ -15,6 +15,7 @@ Concluir o desafio até 23:59 <br>
 [05- Coração](https://user-images.githubusercontent.com/105385268/184347925-281c8f66-42ee-4f96-8c36-00bb9b1fed48.gif)<br>
 [06- Efeito Lighting CSS animation](https://user-images.githubusercontent.com/105385268/184712729-a6cc23ad-7a87-4b8f-aa70-e92df722dc71.gif)<br>
 [07 - Pré Loader](https://user-images.githubusercontent.com/105385268/184880833-3fde6003-af5b-49d2-8c90-42e25d6319fd.gif) <br>
+[08 - Menu Responsivo](https://user-images.githubusercontent.com/105385268/185241121-158969e7-ec76-483a-9c27-c873086eab88.gif) <br>
 ## Projetos realizados 
 
 <b> 01- Ícone de mídia social em camadas </b>
@@ -92,6 +93,14 @@ Concluir o desafio até 23:59 <br>
 <b> Aprendizados: </b><br>
 1- Apenas uma revisão de tudo que já foi visto até agora <br>
 [Meu código](https://github.com/camilamaraschin/30diasCSS/tree/main/07%20-%20Pre%20Loader) <br>
-[Post no Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6965048251569852416/)<br>
+[Post no Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6965430460940193792//)<br>
 
+<b>08- Menu Responsivo</b><br>
+![20220817_174510](https://user-images.githubusercontent.com/105385268/185241121-158969e7-ec76-483a-9c27-c873086eab88.gif) <br>
+
+<b> Aprendizados: </b><br>
+1- Relembrar como fazer um menu de navegação <br>
+2- O uso do media queries <br>
+[Meu código](https://github.com/camilamaraschin/30diasCSS/tree/main/08%20-%20Menu%20responsivo) <br>
+[Post no Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6965048251569852416/)<br>
 
