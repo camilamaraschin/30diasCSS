@@ -1,0 +1,119 @@
+*{
+    margin:0 ;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+:root{
+    --color-BHB:rgb(150, 115, 115);
+    --color-paragraphs: hsla(0, 0%, 100%, 0.75);
+    --background-div1: hsl(31, 100%, 41%);
+    --background-div2: hsla(244, 85%, 51%, 0.777);
+    --background-div3: hsl(47, 63%, 54%);
+}
+ 
+
+body{
+    background-color: var(--color-BHB);
+    font-size: 15px;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+    height: 100vh;
+}
+
+.box{
+    display: flex;
+    position: absolute;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: var(--color-paragraphs);
+}
+
+.div1, .div2, .div3{
+    max-width: 278px;
+    height: 450px;
+    padding: 42px;
+    position: relative;
+}
+
+.div1{
+    background-color: var(--background-div1);
+    border-radius: 20px;
+}
+
+.div2{
+    background-color: var(--background-div2);
+    border-radius: 20px;
+}
+.div3{
+    background-color: var(--background-div3);
+    border-radius: 20px;
+}
+
+.div1 p, .div2 p, .div3 p{
+    line-height: 1.5rem;
+    margin: 20px 0 20px 0;
+    text-align: center;
+    
+}
+
+.div1 button , .div2 button, .div3 button{
+    position: relative;
+    cursor: pointer;
+    text-align: center;
+    display: inline-block;
+    padding: 14px;
+    left: 20px;
+    width: 146px;
+    border-radius: 25px;
+    outline: none;
+    border: 2px solid transparent;
+    font-family: Arial, Helvetica, sans-serif;
+    transition: all 0.2s ease-in-out;
+    
+}
+
+a{
+text-decoration: none;
+}
+
+.div1 a{
+    color: var(--background-div1);
+}
+.div2 a{
+    color: var(--background-div2);
+}
+.div3 a{
+    color: var(--background-div3);
+}
+
+@media only screen and (max-width:500px){
+    body{
+        display: flex;
+        width: 100%;
+        overflow: scroll;
+        flex-wrap: wrap;
+    }
+    .container{
+        display: block;
+        padding: 50px 0;
+        flex-direction: column;
+    }
+
+    .div1{
+        border-radius: 7px 7px 0 0;
+    }
+    .div3{
+        border-radius: 7px 7px 0 0;
+    }
+    div p {
+        font-size: 0.77rem;
+      }
+}
