@@ -17,6 +17,8 @@ Concluir o desafio até 23:59 <br>
 [07 - Pré Loader](https://user-images.githubusercontent.com/105385268/184880833-3fde6003-af5b-49d2-8c90-42e25d6319fd.gif) <br>
 [08 - Menu Responsivo](https://user-images.githubusercontent.com/105385268/185241121-158969e7-ec76-483a-9c27-c873086eab88.gif) <br>
 [09 - Flex-direction](https://user-images.githubusercontent.com/105385268/185466840-940aa702-08ee-43f0-8e0d-c62d34ccb134.png) <br>
+[10 - Efeito Giltch] <br>
+[11 - Efeito de Digitação] <br>
 ## Projetos realizados 
 
 <b> 01- Ícone de mídia social em camadas </b>
@@ -107,10 +109,21 @@ Concluir o desafio até 23:59 <br>
 
 
 <b> 09 - Flex- Direction</b><br>
-![image](https://user-images.githubusercontent.com/105385268/185466840-940aa702-08ee-43f0-8e0d-c62d34ccb134.png)
+![image](https://user-images.githubusercontent.com/105385268/185466840-940aa702-08ee-43f0-8e0d-c62d34ccb134.png)<br>
+
 <b> Aprendizados: </b><br>
 1- Uso das variaveis no css <br>
 2- O uso do media queries<br>
 3 - O uso do flex-direction <br>
 [Meu código](https://github.com/camilamaraschin/30diasCSS/tree/main/09%20-%20Flex-direction)<br>
+[Post no Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6966154868319219712/)<br>
+
+<b> 10 - Efeito Glitch </b> <br><br>
+![20220819_095042](https://user-images.githubusercontent.com/105385268/185627046-2c0c9cf5-4c0c-4bf9-a0e2-21407e0a303e.gif)<br>
+
+<b> Aprendizados: </b><br>
+1- Uso de atributos para centralizar <br>
+2- O uso do HOVER<br>
+[Meu código](https://github.com/camilamaraschin/30diasCSS/tree/main/10%20-%20Efeito%20glitch)<br>
 [Post no Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6965048251569852416/)<br>
+
