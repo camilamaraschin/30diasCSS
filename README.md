@@ -17,8 +17,8 @@ Concluir o desafio até 23:59 <br>
 [07 - Pré Loader](https://user-images.githubusercontent.com/105385268/184880833-3fde6003-af5b-49d2-8c90-42e25d6319fd.gif) <br>
 [08 - Menu Responsivo](https://user-images.githubusercontent.com/105385268/185241121-158969e7-ec76-483a-9c27-c873086eab88.gif) <br>
 [09 - Flex-direction](https://user-images.githubusercontent.com/105385268/185466840-940aa702-08ee-43f0-8e0d-c62d34ccb134.png) <br>
-[10 - Efeito Giltch] <br>
-[11 - Efeito de Digitação] <br>
+[10 - Efeito Giltch](https://user-images.githubusercontent.com/105385268/185627046-2c0c9cf5-4c0c-4bf9-a0e2-21407e0a303e.gif)<br>
+[11 - Carregamento de celular](https://user-images.githubusercontent.com/105385268/186004011-6684a369-a86f-4250-925a-bc3987cb5609.gif) <br>
 ## Projetos realizados 
 
 <b> 01- Ícone de mídia social em camadas </b>
@@ -125,5 +125,11 @@ Concluir o desafio até 23:59 <br>
 1- Uso de atributos para centralizar <br>
 2- O uso do HOVER<br>
 [Meu código](https://github.com/camilamaraschin/30diasCSS/tree/main/10%20-%20Efeito%20glitch)<br>
-[Post no Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6965048251569852416/)<br>
+[Post no Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6966543497835237376/)<br>
 
+<b> 11 - Carregamento de Celular </b><br>
+![20220822_162805](https://user-images.githubusercontent.com/105385268/186004011-6684a369-a86f-4250-925a-bc3987cb5609.gif)<br>
+<b> Aprendizados: </b><br>
+Alguns aprendizados que tirei disso foi a forma de como fazer a estrutura mostrando como se carrega. Usei novamente o ROOT onde se usa as variavéis no CSS . <br>
+[Meu Código](https://github.com/camilamaraschin/30diasCSS/tree/main/11-%20Progresso)<br>
+[Post no Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6967563881086873603/)<br>
