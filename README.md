@@ -19,6 +19,7 @@ Concluir o desafio até 23:59 <br>
 [09 - Flex-direction](https://user-images.githubusercontent.com/105385268/185466840-940aa702-08ee-43f0-8e0d-c62d34ccb134.png) <br>
 [10 - Efeito Giltch](https://user-images.githubusercontent.com/105385268/185627046-2c0c9cf5-4c0c-4bf9-a0e2-21407e0a303e.gif)<br>
 [11 - Carregamento de celular](https://user-images.githubusercontent.com/105385268/186004011-6684a369-a86f-4250-925a-bc3987cb5609.gif) <br>
+[12 - Efeito de Digitação](https://user-images.githubusercontent.com/105385268/186155625-be502b68-af5f-4b91-9d1b-3f87ab92147b.gif) <br>
 ## Projetos realizados 
 
 <b> 01- Ícone de mídia social em camadas </b>
@@ -132,4 +133,11 @@ Concluir o desafio até 23:59 <br>
 <b> Aprendizados: </b><br>
 Alguns aprendizados que tirei disso foi a forma de como fazer a estrutura mostrando como se carrega. Usei novamente o ROOT onde se usa as variavéis no CSS . <br>
 [Meu Código](https://github.com/camilamaraschin/30diasCSS/tree/main/11-%20Progresso)<br>
+[Post no Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6967563881086873603/)<br>
+
+<b> 12 - Efeito de Digitação </b><br>
+![20220823_091556](https://user-images.githubusercontent.com/105385268/186155766-18bb5848-c2cf-48a1-aa6a-8a1537b03ebe.gif)<br>
+<b> Aprendizados: </b><br>
+Questão de centralizar no meio da pagina, e o efeito de animação <br>
+[Meu Código](https://github.com/camilamaraschin/30diasCSS/tree/main/12%20-%20Efeito%20de%20digita%C3%A7%C3%A3o)<br>
 [Post no Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6967563881086873603/)<br>
