@@ -163,4 +163,4 @@ Também fiz o uso de uma fonte externa do google fonts para o desafio.<br>
  afetando a distância entre o plano Z e o usuário, fazendo assim esse efeito. 
  
 [Meu Código](https://github.com/camilamaraschin/30diasCSS/tree/main/14-%20Flip%20Card%20Information)<br>
-[Post no Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6967563881086873603/)<br>
+[Post no Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6968674004681281536/)<br>
