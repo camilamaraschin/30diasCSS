@@ -21,6 +21,8 @@ Concluir o desafio até 23:59 <br>
 [11 - Carregamento de celular](https://user-images.githubusercontent.com/105385268/186004011-6684a369-a86f-4250-925a-bc3987cb5609.gif) <br>
 [12 - Efeito de Digitação](https://user-images.githubusercontent.com/105385268/186155625-be502b68-af5f-4b91-9d1b-3f87ab92147b.gif) <br>
 [13 - Card Timeline](https://user-images.githubusercontent.com/105385268/186506570-cac7a1d2-beb5-45a8-914f-54176ecaa792.png)<br> 
+[14 - Flip Card](https://user-images.githubusercontent.com/105385268/186752522-ea2ae149-8e76-4115-811d-bcf656cb22ac.gif)<br>
+
 ## Projetos realizados 
 
 <b> 01- Ícone de mídia social em camadas </b>
@@ -150,4 +152,15 @@ Questão de centralizar no meio da pagina, e o efeito de animação <br>
 No projeto de hoje aprendi um novos  atributo no css como o GAP, text-indent e z-index. <br>
 Também fiz o uso de uma fonte externa do google fonts para o desafio.<br>
 [Meu Código](https://github.com/camilamaraschin/30diasCSS/tree/main/13%20-%20Card%20timeline)<br>
+[Post no Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6968325239025864704/)<br>
+
+<b> 14 - Flip Card </b><br>
+![20220825_163254](https://user-images.githubusercontent.com/105385268/186752673-013cf80f-41ac-470c-8779-7d088dc7214b.gif)
+<br>
+
+<b> Aprendizados: </b><br>
+ Aprendi um atributo novo o perspective dá a um elemento um espaço 3D,<br>
+ afetando a distância entre o plano Z e o usuário, fazendo assim esse efeito. 
+ 
+[Meu Código](https://github.com/camilamaraschin/30diasCSS/tree/main/14%20-%20Flip%20Card)<br>
 [Post no Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6967563881086873603/)<br>
