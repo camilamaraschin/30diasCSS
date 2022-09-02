@@ -177,12 +177,17 @@ Também fiz o uso de uma fonte externa do google fonts para o desafio.<br>
 
 
 <b> 17 - Botão de Download </b><br>
-![image](https://user-images.githubusercontent.com/105385268/187881590-09ad1172-33ce-4f86-a2bc-cb58cc3d01d5.png)
 
+![image](https://user-images.githubusercontent.com/105385268/187881590-09ad1172-33ce-4f86-a2bc-cb58cc3d01d5.png)
 <br>
- 
 [Meu Código](https://github.com/camilamaraschin/30diasCSS/tree/main/17%20-%20Bot%C3%A3o%20de%20download)<br>
 [Post no Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6968674004681281536/)<br>
 
+<b> 18 - Flip Card </b><br>
+
+![20220825_163254](https://user-images.githubusercontent.com/105385268/188143256-77e75ce1-5564-4a45-85d3-e7406406be93.gif)
+<br>
+[Meu Código](https://github.com/camilamaraschin/30diasCSS/tree/main/17%20-%20Bot%C3%A3o%20de%20download)<br>
+[Post no Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6968674004681281536/)<br>
 
 
