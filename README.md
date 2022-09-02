@@ -25,6 +25,7 @@ Concluir o desafio até 23:59 <br>
 [15 - Icones flutuantes](https://user-images.githubusercontent.com/105385268/187448617-2d9a7178-ba04-4b22-9f65-5f586d8e3a80.gif) <br>
 [16 - Bio](https://user-images.githubusercontent.com/105385268/187449407-48b75549-01b9-407d-8094-a1d3c773aea1.png) <br>
 [17 - Botão de Download](https://user-images.githubusercontent.com/105385268/187881516-dadd5f3a-a908-4661-a9fa-b5e7de42210e.png)<br>
+[18 - Flip Card](https://user-images.githubusercontent.com/105385268/188143256-77e75ce1-5564-4a45-85d3-e7406406be93.gif)<br>
 
 
 ## Projetos realizados 
@@ -181,13 +182,13 @@ Também fiz o uso de uma fonte externa do google fonts para o desafio.<br>
 ![image](https://user-images.githubusercontent.com/105385268/187881590-09ad1172-33ce-4f86-a2bc-cb58cc3d01d5.png)
 <br>
 [Meu Código](https://github.com/camilamaraschin/30diasCSS/tree/main/17%20-%20Bot%C3%A3o%20de%20download)<br>
-[Post no Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6968674004681281536/)<br>
+[Post no Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6971217711695577088/)<br>
 
 <b> 18 - Flip Card </b><br>
 
 ![20220825_163254](https://user-images.githubusercontent.com/105385268/188143256-77e75ce1-5564-4a45-85d3-e7406406be93.gif)
 <br>
-[Meu Código](https://github.com/camilamaraschin/30diasCSS/tree/main/17%20-%20Bot%C3%A3o%20de%20download)<br>
+[Meu Código](https://github.com/camilamaraschin/30diasCSS/tree/main/18%20-%20Flip%20Card)<br>
 [Post no Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6968674004681281536/)<br>
 
 
