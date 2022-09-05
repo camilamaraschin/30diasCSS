@@ -189,6 +189,6 @@ Também fiz o uso de uma fonte externa do google fonts para o desafio.<br>
 ![20220825_163254](https://user-images.githubusercontent.com/105385268/188143256-77e75ce1-5564-4a45-85d3-e7406406be93.gif)
 <br>
 [Meu Código](https://github.com/camilamaraschin/30diasCSS/tree/main/18%20-%20Flip%20Card)<br>
-[Post no Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6968674004681281536/)<br>
+[Post no Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6972650391419125760/)<br>
 
 
