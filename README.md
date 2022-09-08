@@ -26,6 +26,8 @@ Concluir o desafio até 23:59 <br>
 [16 - Bio](https://user-images.githubusercontent.com/105385268/187449407-48b75549-01b9-407d-8094-a1d3c773aea1.png) <br>
 [17 - Botão de Download](https://user-images.githubusercontent.com/105385268/187881516-dadd5f3a-a908-4661-a9fa-b5e7de42210e.png)<br>
 [18 - Flip Card](https://user-images.githubusercontent.com/105385268/188143256-77e75ce1-5564-4a45-85d3-e7406406be93.gif)<br>
+[19 - Icone com Efeito](https://user-images.githubusercontent.com/105385268/189090989-b0cfe2e7-17c2-4c36-9d99-19ec5811df63.gif)<br>
+[20 - Clone Netflix](https://user-images.githubusercontent.com/105385268/189091576-78faa97b-bd0e-42d5-9dc5-9ff72e92c0c4.png)<br>
 
 
 ## Projetos realizados 
@@ -190,5 +192,19 @@ Também fiz o uso de uma fonte externa do google fonts para o desafio.<br>
 <br>
 [Meu Código](https://github.com/camilamaraschin/30diasCSS/tree/main/18%20-%20Flip%20Card)<br>
 [Post no Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6972650391419125760/)<br>
+
+<b> 19 - Icone com Efeito </b><br>
+
+![20220906_144404](https://user-images.githubusercontent.com/105385268/189090989-b0cfe2e7-17c2-4c36-9d99-19ec5811df63.gif)
+<br>
+[Meu Código](https://github.com/camilamaraschin/30diasCSS/tree/main/19%20-%20Icones%20com%20efeito)<br>
+[Post no Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6973037907108376576/)<br>
+
+<b> 20- Clone da Netflix </b><br>
+
+![Untitled (2)](https://user-images.githubusercontent.com/105385268/189091576-78faa97b-bd0e-42d5-9dc5-9ff72e92c0c4.png)
+<br>
+[Meu Código](https://github.com/camilamaraschin/30diasCSS/tree/main/20%20-%20Clone%20da%20Netflix)<br>
+[Post no Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6973430728843800576/)<br>!
 
 
