@@ -1,0 +1,133 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-size: 10px;
+    font-family: Roboto, sans-serif;
+    background: linear-gradient(-50deg , #05ea6c, #e619b6);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .c-checkbox {
+    display: none;
+  }
+  .c-checkbox:checked + .wrapper .form-container {
+    width: 37.5em;
+  }
+  .c-checkbox:checked + .wrapper .form-container__toggle {
+    visibility: hidden;
+    opacity: 0;
+    transform: scale(0.7);
+  }
+  .c-checkbox:checked + .wrapper .form-container__input,
+  .c-checkbox:checked + .wrapper .form-container__buttonLabel {
+    transition: 0.2s 0.1s;
+    visibility: visible;
+    opacity: 1;
+    transform: scale(1);
+  }
+  
+  .wrapper,
+  .form-container,
+  .form-container__toggle {
+    width: 20em;
+    height: 6.25em;
+  }
+  
+  .wrapper {
+    position: relative;
+    font-weight: 700;
+  }
+  
+  .form-container,
+  .form-container__toggle {
+    position: absolute;
+    border-radius: 6.25em;
+    border:  solid  #8257e5;
+    background-color: #ffffff;
+    transition: 0.2s;
+  }
+   i{
+    font-size: 15px;
+   }
+  .form-container {
+    left: 50%;
+    transform: translateX(-50%);
+    padding: 0.625em;
+    box-sizing: border-box;
+    box-shadow: 0 0.125em 0.3125em rgba(0, 0, 0, 0.3);
+    display: flex;
+    justify-content: center;
+  }
+  
+  .form-container__toggle {
+    color: #1919b9;
+    top: 0;
+    cursor: pointer;
+    z-index: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .form-container__toggle::before {
+    font-size: 1.75em;
+    content: attr(data-title);
+  }
+  
+  .form-container__input,
+  .form-container__button {
+    font: inherit;
+    border: 0;
+    outline: 0;
+    border-radius: 5em;
+    box-sizing: border-box;
+  }
+  
+  .form-container__input,
+  .form-container__buttonLabel {
+    font-size: 1.75em;
+    opacity: 0;
+    visibility: hidden;
+    transform: scale(0.7);
+    transition: 0s;
+  }
+  
+  .form-container__input {
+    color: #6236cb;
+    height: 100%;
+    width: 100%;
+    padding: 0 0.714em;
+  }
+  .form-container__input::placeholder {
+    color: #5bb027;
+  }
+  
+  .form-container__buttonLabel {
+    color: #d6bdfd;
+    height: 100%;
+    width: auto;
+  }
+  .form-container__buttonLabel::before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    cursor: pointer;
+  }
+  
+  .form-container__button {
+    color: inherit;
+    padding: 0;
+    height: 100%;
+    width: 5em;
+    background-color: #8257e5;
+    cursor: pointer;
+  }
+  
