@@ -28,6 +28,9 @@ Concluir o desafio até 23:59 <br>
 [18 - Flip Card](https://user-images.githubusercontent.com/105385268/188143256-77e75ce1-5564-4a45-85d3-e7406406be93.gif)<br>
 [19 - Icone com Efeito](https://user-images.githubusercontent.com/105385268/189090989-b0cfe2e7-17c2-4c36-9d99-19ec5811df63.gif)<br>
 [20 - Clone Netflix](https://user-images.githubusercontent.com/105385268/189091576-78faa97b-bd0e-42d5-9dc5-9ff72e92c0c4.png)<br>
+[21 - Botão Buscar](https://user-images.githubusercontent.com/105385268/189645935-17770462-d838-42e2-bcd7-4bec1b649079.gif)<br>
+[22- Navegação animada](https://user-images.githubusercontent.com/105385268/189646354-bdf82c40-ca3c-4dc6-9806-8b843dca6596.gif)<br>
+[23 - Pagina](https://user-images.githubusercontent.com/105385268/189646392-98870d25-61f7-4828-97a6-0514ef153c3d.gif)<br>
 
 
 ## Projetos realizados 
@@ -205,6 +208,22 @@ Também fiz o uso de uma fonte externa do google fonts para o desafio.<br>
 ![Untitled (2)](https://user-images.githubusercontent.com/105385268/189091576-78faa97b-bd0e-42d5-9dc5-9ff72e92c0c4.png)
 <br>
 [Meu Código](https://github.com/camilamaraschin/30diasCSS/tree/main/20%20-%20Clone%20da%20Netflix)<br>
-[Post no Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6973430728843800576/)<br>!
+[Post no Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6973430728843800576/)<br>
 
+<b> 21- Botão de Buscar </b><br>
 
+![20220906_144145](https://user-images.githubusercontent.com/105385268/189645935-17770462-d838-42e2-bcd7-4bec1b649079.gif)
+<br>
+[Meu Código](https://github.com/camilamaraschin/30diasCSS/tree/main/20%20-%20Clone%20da%20Netflix)<br>
+[Post no Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6973816452071993344/)<br>
+
+<b> 22- Navegação animada </b><br>
+![20220908_143327](https://user-images.githubusercontent.com/105385268/189646354-bdf82c40-ca3c-4dc6-9806-8b843dca6596.gif)<br>
+[Meu Código](https://github.com/camilamaraschin/30diasCSS/tree/main/20%20-%20Clone%20da%20Netflix)<br>
+[Post no Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6973816452071993344/)<br>
+
+<b> 23 - Pagina</b><br>
+
+![20220908_142429](https://user-images.githubusercontent.com/105385268/189646392-98870d25-61f7-4828-97a6-0514ef153c3d.gif)<br>
+[Meu Código](https://github.com/camilamaraschin/30diasCSS/tree/main/20%20-%20Clone%20da%20Netflix)<br>
+[Post no Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6973816452071993344/)<br>
