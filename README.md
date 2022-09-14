@@ -31,6 +31,13 @@ Concluir o desafio até 23:59 <br>
 [21 - Botão Buscar](https://user-images.githubusercontent.com/105385268/189645935-17770462-d838-42e2-bcd7-4bec1b649079.gif)<br>
 [22- Navegação animada](https://user-images.githubusercontent.com/105385268/189646354-bdf82c40-ca3c-4dc6-9806-8b843dca6596.gif)<br>
 [23 - Pagina](https://user-images.githubusercontent.com/105385268/189646392-98870d25-61f7-4828-97a6-0514ef153c3d.gif)<br>
+[24 - QrCode](https://user-images.githubusercontent.com/105385268/190121121-7894b0b3-cc99-4f5c-80cc-13a81deebbba.gif) <br>
+[25 -]
+[26 -]
+[27 -]
+[28 -]
+[29 - Portfólio]
+[30 - Fogos de Artificios]
 
 
 ## Projetos realizados 
@@ -227,3 +234,48 @@ Também fiz o uso de uma fonte externa do google fonts para o desafio.<br>
 ![20220908_142429](https://user-images.githubusercontent.com/105385268/189646392-98870d25-61f7-4828-97a6-0514ef153c3d.gif)<br>
 [Meu Código](https://github.com/camilamaraschin/30diasCSS/tree/main/20%20-%20Clone%20da%20Netflix)<br>
 [Post no Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6973816452071993344/)<br>
+
+<b> 24 - QrCode</b><br>
+
+![20220914_064230](https://user-images.githubusercontent.com/105385268/190121121-7894b0b3-cc99-4f5c-80cc-13a81deebbba.gif)
+<br>
+[Meu Código](https://github.com/camilamaraschin/30diasCSS/tree/main/20%20-%20Clone%20da%20Netflix)<br>
+[Post no Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6973816452071993344/)<br>
+
+<b> 25 - </b><br>
+
+<br>
+[Meu Código](https://github.com/camilamaraschin/30diasCSS/tree/main/20%20-%20Clone%20da%20Netflix)<br>
+[Post no Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6973816452071993344/)<br>
+
+<b> 26 -</b><br>
+
+<br>
+[Meu Código](https://github.com/camilamaraschin/30diasCSS/tree/main/20%20-%20Clone%20da%20Netflix)<br>
+[Post no Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6973816452071993344/)<br>
+
+<b> 27-</b><br>
+
+<br>
+[Meu Código](https://github.com/camilamaraschin/30diasCSS/tree/main/20%20-%20Clone%20da%20Netflix)<br>
+[Post no Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6973816452071993344/)<br>
+
+<b> 28 - </b><br>
+
+<br>
+[Meu Código](https://github.com/camilamaraschin/30diasCSS/tree/main/20%20-%20Clone%20da%20Netflix)<br>
+[Post no Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6973816452071993344/)<br>
+
+<b> 29 - Portfólio </b><br>
+
+
+[Meu Código](https://github.com/camilamaraschin/30diasCSS/tree/main/20%20-%20Clone%20da%20Netflix)<br>
+[Post no Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6973816452071993344/)<br>
+
+
+<b> 30 - Fogos de Artificios </b><br>
+
+![20220908_142429](https://user-images.githubusercontent.com/105385268/189646392-98870d25-61f7-4828-97a6-0514ef153c3d.gif)<br>
+[Meu Código](https://github.com/camilamaraschin/30diasCSS/tree/main/20%20-%20Clone%20da%20Netflix)<br>
+[Post no Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6973816452071993344/)<br>
+
