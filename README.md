@@ -32,7 +32,8 @@ Concluir o desafio até 23:59 <br>
 [22- Navegação animada](https://user-images.githubusercontent.com/105385268/189646354-bdf82c40-ca3c-4dc6-9806-8b843dca6596.gif)<br>
 [23 - Pagina](https://user-images.githubusercontent.com/105385268/189646392-98870d25-61f7-4828-97a6-0514ef153c3d.gif)<br>
 [24 - QrCode](https://user-images.githubusercontent.com/105385268/190121121-7894b0b3-cc99-4f5c-80cc-13a81deebbba.gif) <br>
-[25 -]
+[25 - Progressão](https://user-images.githubusercontent.com/105385268/190496967-b9cf80a7-c802-430a-9ffc-415561fe64b7.png)<br>
+
 [26 -]
 [27 -]
 [28 -]
@@ -242,7 +243,8 @@ Também fiz o uso de uma fonte externa do google fonts para o desafio.<br>
 [Meu Código](https://github.com/camilamaraschin/30diasCSS/tree/main/20%20-%20Clone%20da%20Netflix)<br>
 [Post no Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6973816452071993344/)<br>
 
-<b> 25 - </b><br>
+<b> 25 - Progressão </b><br>
+![image](https://user-images.githubusercontent.com/105385268/190497069-4469dc7d-3168-4811-8a54-aa8e500361a9.png)
 
 <br>
 [Meu Código](https://github.com/camilamaraschin/30diasCSS/tree/main/20%20-%20Clone%20da%20Netflix)<br>
