@@ -18,12 +18,11 @@ Concluir o desafio até 23:59 <br>
 [08 - Menu Responsivo](https://github.com/camilamaraschin/30diasCSS/tree/main/08%20-%20Menu%20responsivo) <br>
 [09 - Flex-direction](https://github.com/camilamaraschin/30diasCSS/tree/main/09%20-%20Flex-direction) <br>
 [10 - Efeito Giltch](https://github.com/camilamaraschin/30diasCSS/tree/main/10%20-%20Efeito%20glitch)<br>
+[11 - Carregamento de celular](https://github.com/camilamaraschin/30diasCSS/tree/main/11-%20Progresso) <br>
+[12 - Efeito de Digitação](https://github.com/camilamaraschin/30diasCSS/tree/main/12%20-%20Efeito%20de%20digita%C3%A7%C3%A3o) <br>
+[13 - Card Timeline](https://github.com/camilamaraschin/30diasCSS/tree/main/13%20-%20Card%20timeline)<br> 
+[14 - Flip Card Information](https://github.com/camilamaraschin/30diasCSS/tree/main/14-%20Flip%20Card%20Information)<br>
 
-
-[11 - Carregamento de celular](https://user-images.githubusercontent.com/105385268/186004011-6684a369-a86f-4250-925a-bc3987cb5609.gif) <br>
-[12 - Efeito de Digitação](https://user-images.githubusercontent.com/105385268/186155625-be502b68-af5f-4b91-9d1b-3f87ab92147b.gif) <br>
-[13 - Card Timeline](https://user-images.githubusercontent.com/105385268/186506570-cac7a1d2-beb5-45a8-914f-54176ecaa792.png)<br> 
-[14 - Flip Card Information](https://user-images.githubusercontent.com/105385268/186766630-a7f26288-6d83-4d3c-bf92-f18c8dd038fd.gif)<br>
 [15 - Icones flutuantes](https://user-images.githubusercontent.com/105385268/187448617-2d9a7178-ba04-4b22-9f65-5f586d8e3a80.gif) <br>
 [16 - Bio](https://user-images.githubusercontent.com/105385268/187449407-48b75549-01b9-407d-8094-a1d3c773aea1.png) <br>
 [17 - Botão de Download](https://user-images.githubusercontent.com/105385268/187881516-dadd5f3a-a908-4661-a9fa-b5e7de42210e.png)<br>
@@ -45,22 +44,22 @@ Concluir o desafio até 23:59 <br>
 
 ## Projetos realizados 
 
-<b> 01- Ícone de mídia social em camadas </b>
+<b> 01- Ícone de mídia social em camadas </b><br>
 ![20220808_201548](https://user-images.githubusercontent.com/105385268/183531340-8e90c0ca-a1ef-49ed-9751-81f76b5a5a05.gif) <br>
 
-<b> 02- Botão com efeito HOVER </b>
+<b> 02- Botão com efeito HOVER </b><br>
 ![20220809_173654](https://user-images.githubusercontent.com/105385268/183759059-75974ea3-281a-4c3b-b119-8347564c40f0.gif) <br>
 
-<b> 03- Formulário </b>
+<b> 03- Formulário </b><br>
 ![image](https://user-images.githubusercontent.com/105385268/183924014-6cce1058-4d73-4b6f-b72e-0d1e72652c2a.png) <br>
 
-<b> 04- Pêndulo </b>
+<b> 04- Pêndulo </b><br>
 ![imagem](https://user-images.githubusercontent.com/105385268/184227096-13866198-5b98-4143-95c3-2068e867c5d5.gif)<br>
 
-<b> 05- Coração </b>
+<b> 05- Coração </b><br>
 ![20220812_082429](https://user-images.githubusercontent.com/105385268/184347925-281c8f66-42ee-4f96-8c36-00bb9b1fed48.gif)<br>
 
-<b> 06- Efeito Lighting CSS animation </b>
+<b> 06- Efeito Lighting CSS animation </b><br>
 ![20220815_172137](https://user-images.githubusercontent.com/105385268/184712729-a6cc23ad-7a87-4b8f-aa70-e92df722dc71.gif)<br>
 
 <b>07 - Pré Loader</b><br>
