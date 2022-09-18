@@ -22,22 +22,21 @@ Concluir o desafio até 23:59 <br>
 [12 - Efeito de Digitação](https://github.com/camilamaraschin/30diasCSS/tree/main/12%20-%20Efeito%20de%20digita%C3%A7%C3%A3o) <br>
 [13 - Card Timeline](https://github.com/camilamaraschin/30diasCSS/tree/main/13%20-%20Card%20timeline)<br> 
 [14 - Flip Card Information](https://github.com/camilamaraschin/30diasCSS/tree/main/14-%20Flip%20Card%20Information)<br>
-
-[15 - Icones flutuantes](https://user-images.githubusercontent.com/105385268/187448617-2d9a7178-ba04-4b22-9f65-5f586d8e3a80.gif) <br>
-[16 - Bio](https://user-images.githubusercontent.com/105385268/187449407-48b75549-01b9-407d-8094-a1d3c773aea1.png) <br>
-[17 - Botão de Download](https://user-images.githubusercontent.com/105385268/187881516-dadd5f3a-a908-4661-a9fa-b5e7de42210e.png)<br>
-[18 - Flip Card](https://user-images.githubusercontent.com/105385268/188143256-77e75ce1-5564-4a45-85d3-e7406406be93.gif)<br>
-[19 - Icone com Efeito](https://user-images.githubusercontent.com/105385268/189090989-b0cfe2e7-17c2-4c36-9d99-19ec5811df63.gif)<br>
-[20 - Clone Netflix](https://user-images.githubusercontent.com/105385268/189091576-78faa97b-bd0e-42d5-9dc5-9ff72e92c0c4.png)<br>
-[21 - Botão Buscar](https://user-images.githubusercontent.com/105385268/189645935-17770462-d838-42e2-bcd7-4bec1b649079.gif)<br>
-[22- Navegação animada](https://user-images.githubusercontent.com/105385268/189646354-bdf82c40-ca3c-4dc6-9806-8b843dca6596.gif)<br>
-[23 - Pagina](https://user-images.githubusercontent.com/105385268/189646392-98870d25-61f7-4828-97a6-0514ef153c3d.gif)<br>
-[24 - QrCode](https://user-images.githubusercontent.com/105385268/190121121-7894b0b3-cc99-4f5c-80cc-13a81deebbba.gif) <br>
-[25 - Progressão](https://user-images.githubusercontent.com/105385268/190496967-b9cf80a7-c802-430a-9ffc-415561fe64b7.png)<br>
-[26 - Skeleton Loading](https://codepen.io/camilamaraschin/pen/XWqpBqb)<br>
-[27 - Lua ] <br>
-[28 -] <br>
-[29 - Portfólio] <br>
+[15 - Icones flutuantes](https://github.com/camilamaraschin/30diasCSS/tree/main/15%20-%20Icones%20flutuantes) <br>
+[16 - Bio](https://github.com/camilamaraschin/30diasCSS/tree/main/16%20-%20Bio) <br>
+[17 - Botão de Download](https://github.com/camilamaraschin/30diasCSS/tree/main/17%20-%20Bot%C3%A3o%20de%20download)<br>
+[18 - Flip Card](https://github.com/camilamaraschin/30diasCSS/tree/main/18%20-%20Flip%20Card)<br>
+[19 - Icone com Efeito](https://github.com/camilamaraschin/30diasCSS/tree/main/19%20-%20Icones%20com%20efeito)<br>
+[20 - Clone Netflix](https://github.com/camilamaraschin/30diasCSS/tree/main/20%20-%20Clone%20da%20Netflix)<br>
+[21 - Botão Buscar](https://github.com/camilamaraschin/30diasCSS/tree/main/21%20-%20Bot%C3%A3o%20de%20busca)<br>
+[22- Navegação animada](https://github.com/camilamaraschin/30diasCSS/tree/main/22-%20Navega%C3%A7%C3%A3o%20animado)<br>
+[23 - Pagina](https://github.com/camilamaraschin/30diasCSS/tree/main/23-%20Pagina)<br>
+[24 - QrCode](https://github.com/camilamaraschin/30diasCSS/tree/main/24-%20QRCODE) <br>
+[25 - Progressão](https://github.com/camilamaraschin/30diasCSS/tree/main/25%20-%20Progresso)<br>
+[26 - Skeleton Loading](https://github.com/camilamaraschin/30diasCSS/tree/main/26%20-%20%20Skeleton%20Loading)<br>
+[27 - Lua ](https://github.com/camilamaraschin/30diasCSS/tree/main/27%20-Lua)<br>
+[28 - Card Animation](https://github.com/camilamaraschin/30diasCSS/tree/main/28-%20Card%20Animation) <br>
+[29 - LangPage] ( )  <br>
 [30 - Fogos de Artificios](https://user-images.githubusercontent.com/105385268/190517984-b3a56c08-ea4e-449a-b325-792d263a5bff.gif)
 
 
@@ -128,8 +127,8 @@ Concluir o desafio até 23:59 <br>
 <b> 27- Lua</b><br>
 ![20220918_184637](https://user-images.githubusercontent.com/105385268/190929864-d3530183-2d03-4632-ab46-202f2a5eae74.gif)<br>
 
-<b> 28 - </b><br>
-<br>
+<b> 28 - Card Animation </b><br>
+![20220918_194931](https://user-images.githubusercontent.com/105385268/190931543-6832b768-f35d-4ee4-b0a9-346188177ddc.gif)<br>
 
 <b> 29 - Portfólio </b><br>
 <br>
