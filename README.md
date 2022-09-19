@@ -131,6 +131,7 @@ Concluir o desafio até 23:59 <br>
 ![20220918_194931](https://user-images.githubusercontent.com/105385268/190931543-6832b768-f35d-4ee4-b0a9-346188177ddc.gif)<br>
 
 <b> 29 - Portfólio </b><br>
+![20220919_185705](https://user-images.githubusercontent.com/105385268/191129987-fe5b2500-6f81-4997-ac72-6b3070baeb25.gif)
 <br>
 
 <b> 30 - Fogos de Artificios </b><br>
